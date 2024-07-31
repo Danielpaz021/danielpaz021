@@ -1,6 +1,6 @@
 👨‍💻 Desenvolvedor nível inciante 
 
-🎓Graduação em Análise e Desenvolvimento de Sistemas pela Uiversidade Veiga de Almeida 
+🎓 Graduação em Análise e Desenvolvimento de Sistemas pela Uiversidade Veiga de Almeida 
 
 
 <div style="display: inline_block"><br>
