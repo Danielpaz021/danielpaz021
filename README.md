@@ -1,4 +1,4 @@
-👨‍💻 Desenvolvedor nível inciante 
+👨‍💻 Desenvolvedor Back-end
 
 🎓 Graduação em Análise e Desenvolvimento de Sistemas pela Uiversidade Veiga de Almeida 
 
